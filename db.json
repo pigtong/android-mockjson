@@ -3,6 +3,7 @@
 		{
 			"id": 1,
 			"title": "Merry X Mas Tony!!",
+			"tag": "xmas",
 			"message": "How are you?\n Hope you're doing well out there in Thailand, the situation seems to getting serious. It's starting to snow here in England. Hope youd could join us someday!!\n P.S. Don't tell my brother I sent you a card!!",
 			"sender": {
 				"id": 2,
@@ -15,6 +16,7 @@
 		{
       			"id": 2,
 			"title": "Have you seen my sister?",
+			"tag": "xmas",
 			"message": "It's been a while young lad. I hope you're getting well in this COVID situation around the world. By the way, my sister on running again. Please message me back if you saw her somewhere. Merry Christmas.",
 			"sender": {
 				"id": 3,
@@ -27,6 +29,7 @@
 		{
       			"id": 3,
 			"title": "It's gonna be white Christmas this year!!",
+			"tag": "xmas",
 			"message": "Snow start falling!! It's a lot colder this year in Japan, but the light's really beautiful in snow!! You must come here to see by yourself!! Promise?!",
 			"sender": {
 				"id": 4,
