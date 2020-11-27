@@ -1,25 +1,46 @@
 {
-	"colorcards": [
+	"cards": [
 		{
 			"id": 1,
-			"title": "Red Card",
-			"color_code_hex": "#FF0000"
+			"title": "Merry X Mas Tony!!",
+			"message": "How are you?\n Hope you're doing well out there in Thailand, the situation seems to getting serious. It's starting to snow here in England. Hope youd could join us someday!!\n P.S. Don't tell my brother I sent you a card!!"
+			"sender": {
+				"id": 2,
+				"name": "Enora Holmes",
+				"nickname": "Enora",
+				"birthday": "1993-02-14"
+			},
+			"sent_date": "2020-11-20"
 		},
 		{
       			"id": 2,
-			"title": "Blue Card",
-	 		"color_code_hex": "#0000FF"
+			"title": "Have you seen my sister?",
+			"message": "It's been a while young lad. I hope you're getting well in this COVID situation around the world. By the way, my sister on running again. Please message me back if you saw her somewhere. Merry Christmas."
+			"sender": {
+				"id": 3,
+				"name": "Cherlock Holmes",
+				"nickname": "Willywonga",
+				"birthday": "1985-10-10"
+			},
+			"sent_date": "2020-11-22"
 		},
 		{
       			"id": 3,
-			"title": "Yellow Card",
-			"color_code_hex": "#FFFF00"
+			"title": "It's gonna be white Christmas this year!!",
+			"message": "Snow start falling!! It's a lot colder this year in Japan, but the light's really beautiful in snow!! You must come here to see by yourself!! Promise?!"
+			"sender": {
+				"id": 4,
+				"name": "Shirokawa Moshi",
+				"nickname": "Moshii",
+				"birthday": "1995-10-21"
+			},
+			"sent_date": "2020-11-27"
 		}
 	],
   	"profile": {
 		"id": 1,
       		"name": "Chatpol Akkawattanakul",
 	 	"nickname": "Tong",
-		"birthday": "931992-08-16"
+		"birthday": "1992-08-16"
   	}
 }
